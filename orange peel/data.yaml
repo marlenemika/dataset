@@ -3,7 +3,7 @@ val: ../valid/images
 test: ../test/images
 
 nc: 1
-names: ['orange peel']
+names: ['orange']
 
 roboflow:
   workspace: m-iasds
