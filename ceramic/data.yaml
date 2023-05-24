@@ -3,7 +3,7 @@ val: ../valid/images
 test: ../test/images
 
 nc: 1
-names: ['ceramic plate']
+names: ['plate']
 
 roboflow:
   workspace: m-iasds
