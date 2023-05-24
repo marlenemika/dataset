@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['face mask']
+
+roboflow:
+  workspace: m-iasds
+  project: face-mask-zju4z
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/m-iasds/face-mask-zju4z/dataset/1

@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['apple']
+
+roboflow:
+  workspace: m-iasds
+  project: apple-bd1s0
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/m-iasds/apple-bd1s0/dataset/1

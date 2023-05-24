@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['feather']
+
+roboflow:
+  workspace: m-iasds
+  project: feather-augmentation
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/m-iasds/feather-augmentation/dataset/1

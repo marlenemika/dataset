@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['plastic cup']
+
+roboflow:
+  workspace: m-iasds
+  project: plastic-cup-ap2qz
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/m-iasds/plastic-cup-ap2qz/dataset/1

@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['glass']
+
+roboflow:
+  workspace: m-iasds
+  project: glass-3kbnz
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/m-iasds/glass-3kbnz/dataset/1
