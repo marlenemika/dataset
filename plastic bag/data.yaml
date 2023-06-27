@@ -3,11 +3,11 @@ val: ../valid/images
 test: ../test/images
 
 nc: 1
-names: ['plastic bag']
+names: ['plastic-bag']
 
 roboflow:
   workspace: m-iasds
-  project: plastic-bag-uxd3b
+  project: plastic-bag-act4g
   version: 1
   license: CC BY 4.0
-  url: https://universe.roboflow.com/m-iasds/plastic-bag-uxd3b/dataset/1
+  url: https://universe.roboflow.com/m-iasds/plastic-bag-act4g/dataset/1
