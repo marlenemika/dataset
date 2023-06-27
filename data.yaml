@@ -1,6 +1,0 @@
-train: ../dataset/train/images
-val: ../dataset/valid/images
-test: ../dataset/test/images
-
-nc: 20
-names: ['feather', 'flower', 'egg', 'kitchen paper', 'apple', 'foliage', 'soil', 'egg carton', 'orange', 'bone', 'cigarette', 'pill', 'plastic cup', 'plastic bag', 'glass', 'face mask', 'ceramic', 'can', 'battery', 'stone']
