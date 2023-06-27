@@ -1,8 +1,8 @@
 
-plastic bag - v1 2023-05-16 1:25am
+plastic bag - v1 2023-06-27 9:03pm
 ==============================
 
-This dataset was exported via roboflow.com on May 15, 2023 at 11:25 PM GMT
+This dataset was exported via roboflow.com on June 27, 2023 at 7:04 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,7 +17,7 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 1009 images.
+The dataset includes 2909 images.
 Plastic-bag are annotated in YOLO v7 PyTorch format.
 
 The following pre-processing was applied to each image:
